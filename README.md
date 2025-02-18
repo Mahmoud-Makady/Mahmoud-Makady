@@ -12,7 +12,7 @@ I'm a passionate Front-End Developer specializing in ReactJS. I love building sl
 I'm looking to collaborate on ReactJS projects, UI/UX improvements, and open-source contributions If you have an exciting project, let's connect!  
 
 ## 📫 How to Reach Me  
-- 📩 Email: [your-email@example.com]  
+- 📩 Email: m.makady19@gmail.com
 - 💬 LinkedIn: https://linkedin.com/in/mahmoud-makady
 - 🌐 Portfolio: https://mahmoud-makady.netlify.app/
 

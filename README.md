@@ -14,7 +14,7 @@ I'm looking to collaborate on ReactJS projects, UI/UX improvements, and open-sou
 ## 📫 How to Reach Me  
 - 📩 Email: m.makady19@gmail.com
 - 💬 LinkedIn: https://linkedin.com/in/mahmoud-makady
-- 🌐 Portfolio: [https://mahmoud-makady.netlify.app/](https://mahmoud-makady.is-a.dev/)
+- 🌐 Portfolio: https://mahmoud-makady.is-a.dev/
 
 ## ⚡ Fun Fact  
 When I'm not coding, you'll find me capturing stunning food, landscape, and portrait photography! 📸  

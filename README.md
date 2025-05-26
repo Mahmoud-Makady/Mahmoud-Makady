@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Mahmoud Makady</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGM2Zm8ybjI3eGFucHlvYjFsaGJsdWQweXAzN3NyazEyOWM0c2c2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7f5ZGjvKXBaLbBigO/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-makady&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-makady" /> </p>
 

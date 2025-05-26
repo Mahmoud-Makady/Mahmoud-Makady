@@ -1,5 +1,5 @@
 <a href="https://rishavchanda.io">
-  <img src="https://raw.githubusercontent.com/Mahmoud-Makady/My-Portfolio/refs/heads/main/public/images/1.png" alt="My Portfolio Banner" style="width: 100%; height: auto; max-height: 200px; object-fit: cover;" />
+  <img src="https://raw.githubusercontent.com/Mahmoud-Makady/My-Portfolio/refs/heads/main/public/images/2.png" alt="My Portfolio Banner" style="width: 100%; height: auto; max-height: 200px; object-fit: cover;" />
 </a>
 
 <h1 align="center">Hi 👋, I'm Mahmoud Makady</h1>

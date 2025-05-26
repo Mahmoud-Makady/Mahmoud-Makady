@@ -1,4 +1,6 @@
-[![MasterHead](https://raw.githubusercontent.com/Mahmoud-Makady/My-Portfolio/refs/heads/main/public/images/1.png)](https://rishavchanda.io)
+<a href="https://rishavchanda.io">
+  <img src="https://raw.githubusercontent.com/Mahmoud-Makady/My-Portfolio/refs/heads/main/public/images/1.png" alt="My Portfolio Banner" height="200" />
+</a>
 <h1 align="center">Hi 👋, I'm Mahmoud Makady</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 

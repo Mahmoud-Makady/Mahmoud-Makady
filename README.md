@@ -4,13 +4,10 @@
 
 <h1 align="center">Hi 👋, I'm Mahmoud Makady</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGM2Zm8ybjI3eGFucHlvYjFsaGJsdWQweXAzN3NyazEyOWM0c2c2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7f5ZGjvKXBaLbBigO/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-makady&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-makady" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoud-makady" alt="mahmoud-makady" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/makady.mahmoud" target="blank"><img src="https://img.shields.io/twitter/follow/makady.mahmoud?logo=twitter&style=for-the-badge" alt="makady.mahmoud" /></a> </p>
 
 - 🔭 I’m currently working on **Trips&Tips**
 
@@ -24,14 +21,18 @@
 
 - 📫 How to reach me **mahmoudmakady.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1MUSx9B6mGIIIYfzVrnWX9FSJm7M7ovzK/view?usp=drivesdk](https://drive.google.com/file/d/1MUSx9B6mGIIIYfzVrnWX9FSJm7M7ovzK/view?usp=drivesdk)
+- 📄 Know about my experiences [View My CV](https://drive.google.com/file/d/1MUSx9B6mGIIIYfzVrnWX9FSJm7M7ovzK/view?usp=drivesdk)
 
 - ⚡ Fun fact **When I'm not coding, you'll find me playing football or video games, capturing stunning food, landscape, and portrait photography! 📸**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-makady&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-makady" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoud-makady" alt="mahmoud-makady" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/makady.mahmoud" target="blank"><img src="https://img.shields.io/twitter/follow/makady.mahmoud?logo=twitter&style=for-the-badge" alt="makady.mahmoud" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://mahmoud-makady.is-a.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://mahmoud-makady.is-a.dev/" height="30" width="40" /></a>
